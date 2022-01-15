@@ -3,15 +3,15 @@
 FetchMaker is a tech start-up that aims to match up prospective dog owners with their perfect pet
 
 FetchMaker collected data on their adoptable dogs, which includes:
-- weight: an integer representing how heavy a dog is in pounds (lbs)
-- tail_length: a float representing tail length in inches (inch)
-- age: in years
-- color: a string
-- is_rescue: a boolean 0 or 1
-- likes_children: a boolean 0 or 1
-- is_hypoallergenic: a boolean 0 or 1
-- name: a string
-- breed: a string
+- `weight`: an integer representing how heavy a dog is in pounds (lbs)
+- `tail_length`: a float representing tail length in inches (inch)
+- `age`: in years
+- `color`: a string
+- `is_rescue`: a boolean 0 or 1
+- `likes_children`: a boolean 0 or 1
+- `is_hypoallergenic`: a boolean 0 or 1
+- `name`: a string
+- `breed`: a string
 
 FetchMaker wants us to:
 - get the number of whippet rescued dogs
